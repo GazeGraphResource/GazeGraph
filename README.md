@@ -6,3 +6,4 @@ We use the Pupil Core head-mounted eye trakcer in our data collection. To give a
 There are six videos and each corresponds to one of the six activities. In each of the videos, the estimated gazes (i.e., the green circle) and the images of the pupils are overlaid with the user's field-of-view in real-time. 
 
 ## SedentaryActivity dataset
+The dataset will be made publicly available later.
