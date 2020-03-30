@@ -1,4 +1,4 @@
-# GazeGraph
+# SedentaryActivity Dataset
 
 ## Examples of the data collection process for the SedentaryActivity dataset
 We use the Pupil Core head-mounted eye trakcer in our data collection. To give an example of how the data collection was performed, we share the videos that are captured by the scene camera when a subject is performing the six sedentary activities: https://www.dropbox.com/sh/brw160oe48vcxfj/AACk4eQ0ThLdrppmaxuMQvw9a?dl=0
