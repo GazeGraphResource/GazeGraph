@@ -1,4 +1,6 @@
-# DesktopActivity Dataset
+# DesktopActivity Eye Tracking Dataset
+
+This repository contains download links and the introduction of the DesktopActivity Eye Tracking dataset for paper entitled "GazeGraph: Graph-based Few-Shot Cognitive Context Sensingfrom Human Visual Behavior".
 
 ## Examples of the data collection process for the DesktopActivity dataset
 We use the Pupil Core head-mounted eye tracker to collect the eye movement behavior of eight subjects when performing six desktop activities. To give an example of how the data collection was performed, we share the videos that are captured by the scene camera of the eye tracker when a subject is performing the six activities: https://www.dropbox.com/sh/brw160oe48vcxfj/AACk4eQ0ThLdrppmaxuMQvw9a?dl=0
