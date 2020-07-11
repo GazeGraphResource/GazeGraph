@@ -11,19 +11,3 @@ There are six videos and each corresponds to one of the six activities. In each 
 The dataset will be made publicly available later.
 
 
-<!-- Default Statcounter code for GazeGraphResource
-https://github.com/GazeGraphResource/GazeGraph/ -->
-<script type="text/javascript">
-var sc_project=12355981; 
-var sc_invisible=1; 
-var sc_security="2cfe2dfe"; 
-</script>
-<script type="text/javascript"
-src="https://www.statcounter.com/counter/counter.js"
-async></script>
-<noscript><div class="statcounter"><a title="real time web
-analytics" href="https://statcounter.com/"
-target="_blank"><img class="statcounter"
-src="https://c.statcounter.com/12355981/0/2cfe2dfe/1/"
-alt="real time web analytics"></a></div></noscript>
-<!-- End of Statcounter Code -->
