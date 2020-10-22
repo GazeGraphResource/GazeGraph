@@ -18,6 +18,7 @@ The dataset is collected from **eight** subjects (*four female and four male, ag
 
 #### Example of data collection setup: 
 <img src="https://github.com/GazeGraphResource/GazeGraph/blob/master/pupilDevice.png" width = "700" height = "200" hspace="70" align=center />
+
 *(a) Close-up of the Pupil Core head-mounted eye tracker used in the data collection; (b) example of a subject wearing the eye tracking; (c) field of view of the subject, captured by the front scene camera, with the detected gaze point overlaid.*
 
 ### 1.2 Activities
