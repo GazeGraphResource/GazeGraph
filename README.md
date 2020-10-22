@@ -75,8 +75,6 @@ The videos below show how the data collection process was performed. The videos 
      </table>
 </p>
 
-Examples of the recorded gazes are shown in the figure below. 
-
 #### Example of the collected gazes: 
 <p align="center">
      <img src="https://github.com/GazeGraphResource/GazeGraph/blob/master/rawGazeGraphExample.png" width = "500" height = "350" hspace="70"/>
