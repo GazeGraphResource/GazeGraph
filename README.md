@@ -53,14 +53,18 @@ Figure 2: Example of the gazes when a subject is performing different sedentary 
 The videos below show how the data collection process was performed. The videos were recorded by the scene camera of the eye tracker when a subject was performing the six activities. Each of the six videos corresponds to one of the six activities. In each of the videos, the estimated gazes (i.e., the green circle) and the images of the pupils are overlaid with the user's field-of-view in real-time. 
 
 <p align="center">
-     <table><tr>
-          <td> <img src="https://github.com/GazeGraphResource/GazeGraph/blob/master/browse.gif" alt="Drawing" style="width: 250px;"/> </td>
-          <td> <img src="https://github.com/GazeGraphResource/GazeGraph/blob/master/play.gif" alt="Drawing" style="width: 250px;"/> </td>
-          <td> <img src="https://github.com/GazeGraphResource/GazeGraph/blob/master/read.gif" alt="Drawing" style="width: 250px;"/> </td>
-          <td> <img src="https://github.com/GazeGraphResource/GazeGraph/blob/master/search.gif" alt="Drawing" style="width: 250px;"/> </td>
-          <td> <img src="https://github.com/GazeGraphResource/GazeGraph/blob/master/watch.gif" alt="Drawing" style="width: 250px;"/> </td>
-          <td> <img src="https://github.com/GazeGraphResource/GazeGraph/blob/master/write.gif" alt="Drawing" style="width: 250px;"/> </td>
-     </tr></table>
+     <table>
+          <tr>
+               <td> <img src="https://github.com/GazeGraphResource/GazeGraph/blob/master/browse.gif" alt="Drawing" style="width: 250px;"/> </td>
+               <td> <img src="https://github.com/GazeGraphResource/GazeGraph/blob/master/play.gif" alt="Drawing" style="width: 250px;"/> </td>
+               <td> <img src="https://github.com/GazeGraphResource/GazeGraph/blob/master/read.gif" alt="Drawing" style="width: 250px;"/> </td>
+          </tr>
+          <tr>
+               <td> <img src="https://github.com/GazeGraphResource/GazeGraph/blob/master/search.gif" alt="Drawing" style="width: 250px;"/> </td>
+               <td> <img src="https://github.com/GazeGraphResource/GazeGraph/blob/master/watch.gif" alt="Drawing" style="width: 250px;"/> </td>
+               <td> <img src="https://github.com/GazeGraphResource/GazeGraph/blob/master/write.gif" alt="Drawing" style="width: 250px;"/> </td>
+          </tr>
+     </table>
 </p>
 
 
