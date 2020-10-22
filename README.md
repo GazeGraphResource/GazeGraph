@@ -57,10 +57,12 @@ The videos below show how the data collection process was performed. The videos 
           <tr>
                <td> <img src="https://github.com/GazeGraphResource/GazeGraph/blob/master/browse.gif" alt="Drawing" style="width: 250px;"/> </td>
                <td> <img src="https://github.com/GazeGraphResource/GazeGraph/blob/master/play.gif" alt="Drawing" style="width: 250px;"/> </td>
-               <td> <img src="https://github.com/GazeGraphResource/GazeGraph/blob/master/read.gif" alt="Drawing" style="width: 250px;"/> </td>
           </tr>
           <tr>
+               <td> <img src="https://github.com/GazeGraphResource/GazeGraph/blob/master/read.gif" alt="Drawing" style="width: 250px;"/> </td>
                <td> <img src="https://github.com/GazeGraphResource/GazeGraph/blob/master/search.gif" alt="Drawing" style="width: 250px;"/> </td>
+          </tr>
+          <tr>
                <td> <img src="https://github.com/GazeGraphResource/GazeGraph/blob/master/watch.gif" alt="Drawing" style="width: 250px;"/> </td>
                <td> <img src="https://github.com/GazeGraphResource/GazeGraph/blob/master/write.gif" alt="Drawing" style="width: 250px;"/> </td>
           </tr>
