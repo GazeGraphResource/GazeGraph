@@ -41,12 +41,13 @@ We consider six different **desktop activities** that are commonly performed in 
 
 The subjects are asked to perform each of the six activities for five minutes. They can choose one of the stimuli prepared for the Read, Watch, and Play. The gazes is recorded at a 30Hz sampling rate. Examples of the recorded gazes are shown in the figure below. 
 
-#### Example of the collected gazes when a subject is performing different sedentary activities: 
+#### Example of the collected gazes: 
 <p align="center">
      <img src="https://github.com/GazeGraphResource/GazeGraph/blob/master/rawGazeGraphExample.png" width = "500" height = "350" hspace="70"/>
 </p>
-
-*(a) Close-up of the Pupil Core head-mounted eye tracker used in the data collection; (b) example of a subject wearing the eye tracking; (c) field of view of the subject, captured by the front scene camera, with the detected gaze point overlaid.*
+<p align="center">
+Figure 2: Example of the gazes when a subject is performing different sedentary activities: (a) Browsing the Internet; (b) Playing video games; (c) Reading articles; (d) Searching the Internet; (e) Watching videos; and (f) Writing essays.
+</p>
 
 
 As example of how the data collection process was performed, we share the videos that are captured by the scene camera of the eye tracker when a subject is performing the six activities (https://www.dropbox.com/sh/brw160oe48vcxfj/AACk4eQ0ThLdrppmaxuMQvw9a?dl=0). There are six videos and each corresponds to one of the six activities. In each of the videos, the estimated gazes (i.e., the green circle) and the images of the pupils are overlaid with the user's field-of-view in real-time. 
