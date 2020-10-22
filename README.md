@@ -55,7 +55,7 @@ The videos below show how the data collection process was performed. The videos 
 <p align="center">
      <table>
           <tr>
-               <td> <img src="https://github.com/GazeGraphResource/GazeGraph/blob/master/browse.gif" alt="Drawing" style="width: 250px;"/> </td>
+               <td> <img src="https://github.com/GazeGraphResource/GazeGraph/blob/master/browse.gif" alt="Drawing" style="width: 250px;"/> <p align="center">Drowse</p></td>
                <td> <img src="https://github.com/GazeGraphResource/GazeGraph/blob/master/play.gif" alt="Drawing" style="width: 250px;"/> </td>
           </tr>
           <tr>
