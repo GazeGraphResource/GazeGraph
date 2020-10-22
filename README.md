@@ -2,7 +2,7 @@
 
 This repository contains download links and the introduction of the ***DesktopActivity Eye Tracking dataset*** collected in the **ACM SenSys 2020** paper: *"GazeGraph: Graph-based Few-Shot Cognitive Context Sensingfrom Human Visual Behavior"* by [Guohao Lan](https://guohao.netlify.app/), [Bailey Heit](https://www.linkedin.com/in/bailey-heit-b35a23152/), [Tim Scargill](https://sites.duke.edu/timscargill/), and [Maria Gorlatova](https://maria.gorlatova.com/). 
 
-For questions on this repository or the related paper, please contact **Guohao Lan** via guohao [DOT] lan [AT] duke [DOT] edu
+For questions on this repository or the related paper, please contact **Guohao Lan** via *guohao [DOT] lan [AT] duke [DOT] edu*
 
 **Summary**:
 
@@ -25,6 +25,8 @@ Figure 1: (a) Close-up of the Pupil Core head-mounted eye tracker used in the da
 </p>
 
 ### 1.2 Activities
+We focus on application of **sedentary activity recognition** using eye trackers. Tracking sedentary activities has several benefits. First, sedentary activities, such as reading and watching videos, occupy a dominant amount of time in people's daily lives. A recent report indicates that 25\% of Americans are sedentary for more than eight hours a day. Unfortunately, a sedentary lifestyle is associated with poor health, including an increased risk of heart disease and type 2 diabetes. Thus, proactively monitoring the daily sedentary activities can provide more fine-grained information about people's lifestyles. Second, it enhances the context-awareness of existing systems. For instance, by detecting whether a user is playing video games or reading articles, the environment (e.g., smart home) or mobile AR/VR systems can be augmented to provide better user experience and more immersive user-environment interaction. 
+
 We consider six different **desktop activities** that are commonly performed in daily life:
 
 - **Browse**: subjects browse public news websites or blogs. The websites visited by the subjects are different: three subjects gravitated toward visiting websites written in English while the other five subjects visited websites written mainly in Chinese. 
