@@ -17,9 +17,8 @@ For questions on this repository or the related paper, please contact **Guohao L
 The dataset is collected from **eight** subjects (*four female and four male, aged between 24 and 35; all subjects are fluent in English, with Spanish (1), English (2), and Chinese (5) as their first language*) using the [Pupil Core](https://pupil-labs.com/products/core/) eye tracker. The study is approved by our institution's Institutional Review Board. During data collection, the subjects wear the eye tracker and sit in front of the computer screen (a 34-inch display) at a distance of approximately 50cm. We conduct the manufacturer's default on-screen five-points calibration for each of the subjects. Note that we have done only one calibration per subject, and the subjects can move their heads and upper bodies freely during the experiment. 
 
 #### Example of data collection setup: 
-*(a) Close-up of the Pupil Core head-mounted eye tracker used in the data collection; (b) example of a subject wearing the eye tracking; (c) field of view of the subject, captured by the front scene camera, with the detected gaze point overlaid.*
 <img src="https://github.com/GazeGraphResource/GazeGraph/blob/master/pupilDevice.png" width = "700" height = "200" hspace="70" align=center />
-
+*(a) Close-up of the Pupil Core head-mounted eye tracker used in the data collection; (b) example of a subject wearing the eye tracking; (c) field of view of the subject, captured by the front scene camera, with the detected gaze point overlaid.*
 
 ### 1.2 Activities
 We consider six different **desktop activities** that are commonly performed in daily life:
