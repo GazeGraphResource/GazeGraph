@@ -42,7 +42,7 @@ The subjects are asked to perform each of the six activities for five minutes. T
 
 #### Example of the collected gazes when a subject is performing different sedentary activities: 
 <p align="center">
-     <img src="https://github.com/GazeGraphResource/GazeGraph/blob/master/rawGazeGraphExample.png" width = "500" height = "400" hspace="70"/>
+     <img src="https://github.com/GazeGraphResource/GazeGraph/blob/master/rawGazeGraphExample.png" width = "500" height = "350" hspace="70"/>
 </p>
 
 *(a) Close-up of the Pupil Core head-mounted eye tracker used in the data collection; (b) example of a subject wearing the eye tracking; (c) field of view of the subject, captured by the front scene camera, with the detected gaze point overlaid.*
