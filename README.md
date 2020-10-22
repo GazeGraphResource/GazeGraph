@@ -31,17 +31,18 @@ We consider six different **desktop activities** that are commonly performed in 
 
 - **Write**: subjects are asked to write an essay in English using the Microsoft Word installed on the computer.
 
-The subjects are asked to perform each of the six activities for five minutes. They can choose one of the stimuli prepared for the Read, Watch, and Play. The gazes is recorded at a 30Hz sampling rate. Examples of the recorded gazes are shown in the figure below. 
+
+The subjects are asked to perform each of the six activities for five minutes. They can choose one of the stimuli prepared for the Read, Watch, and Play. The gazes is recorded at a 30Hz sampling rate. Examples of the recorded gazes are shown in the figure below. As example of how the data collection process was performed, we share the videos that are captured by the scene camera of the eye tracker when a subject is performing the six activities (https://www.dropbox.com/sh/brw160oe48vcxfj/AACk4eQ0ThLdrppmaxuMQvw9a?dl=0). There are six videos and each corresponds to one of the six activities. In each of the videos, the estimated gazes (i.e., the green circle) and the images of the pupils are overlaid with the user's field-of-view in real-time. 
+
+
+
 
 ## 2. <span id="1">Download Dataset</span>
 
 ## 3. <span id="1">Citation</span>
 
 
-## Examples of the data collection process for the DesktopActivity dataset
-We use the Pupil Core head-mounted eye tracker to collect the eye movement behavior of eight subjects when performing six desktop activities. To give an example of how the data collection was performed, we share the videos that are captured by the scene camera of the eye tracker when a subject is performing the six activities: https://www.dropbox.com/sh/brw160oe48vcxfj/AACk4eQ0ThLdrppmaxuMQvw9a?dl=0
 
-There are six videos and each corresponds to one of the six activities. In each of the videos, the estimated gazes (i.e., the green circle) and the images of the pupils are overlaid with the user's field-of-view in real-time. 
 
 ## DesktopActivity dataset
 The dataset will be made publicly available later.
