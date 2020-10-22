@@ -41,10 +41,12 @@ The subjects are asked to perform each of the six activities for five minutes. T
 
 ## 3. <span id="1">Citation</span>
 
+## 4. <span id="1">Acknowledgments</span>
+The authors of this dataset are [Guohao Lan](https://guohao.netlify.com/) and [Maria Gorlatova](https://maria.gorlatova.com/). This work was done in the [Intelligent Interactive Internet of Things Lab](https://maria.gorlatova.com/) at [Duke University](https://www.duke.edu/).
 
+Contact Information of the contributors: 
+* guohao.lan AT duke.edu
+* maria.gorlatova AT duke.edu
 
-
-## DesktopActivity dataset
-The dataset will be made publicly available later.
-
+This work is supported by the Lord Foundation of North Carolina and by NSF awards CSR-1903136 and CNS-1908051.
 
