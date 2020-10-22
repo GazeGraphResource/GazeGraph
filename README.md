@@ -13,9 +13,25 @@ For questions on this repository or the related paper, please contact Guohao Lan
 
 ## 1. <span id="1">Dataset Information</span>
 
-The dataset is collected from eight subjects (four female and four male, aged between 24 and 35; all subjects are fluent in English, with Spanish (1), English (2), and Chinese (5) as their first language) using the [Pupil Core](https://pupil-labs.com/products/core/) eye tracker. The study is approved by our institution's Institutional Review Board. 
+### 1.1 Setup
+The dataset is collected from eight subjects (four female and four male, aged between 24 and 35; all subjects are fluent in English, with Spanish (1), English (2), and Chinese (5) as their first language) using the [Pupil Core](https://pupil-labs.com/products/core/) eye tracker. The study is approved by our institution's Institutional Review Board. During data collection, the subjects wear the eye tracker and sit in front of the computer screen (a 34-inch display) at a distance of approximately 50cm. We conduct the manufacturer's default on-screen five-points calibration for each of the subjects. Note that we have done only one calibration per subject, and the subjects can move their heads and upper bodies freely during the experiment. 
 
-During data collection, the subjects wear the eye tracker and sit in front of the computer screen (a 34-inch display) at a distance of approximately~50cm. We conduct the manufacturer's default on-screen five-points calibration for each of the subjects. Note that only one calibration is needed per subject, and the subjects can move their heads and upper bodies freely during the experiment. 
+### 1.2 Activities
+We consider six different **desktop activities** that are commonly performed in daily life:
+
+- **Browse**: subjects browse public news websites or blogs. The websites visited by the subjects are different: three subjects gravitated toward visiting websites written in English while the other five subjects visited websites written mainly in Chinese. 
+
+- **Play**: subjects are asked to play simple online games. We consider two different games: one requiring the subjects to look ahead horizontally ([Classic Super Mario](https://www.classicgames.me/super-mario-bros.html)), while the other requiring the subjects to look in all directions to navigate the game character ([Agario](https://agar.io/#ffa)). The instructions of the games are given to the subjects before playing. 
+
+- **Read**: subjects read digital content displayed on a computer screen. Three reading materials in English are prepared: a Wikipedia article, a research paper in a two-column format, a textbook in a single-column format. These materials differ in both text layout and the number of figures embedded. 
+
+- **Search**: we ask subjects to search for answers to a list of predefined questions using a web-based search engine (i.e., Google). For each of the subjects, the questions are randomly ordered to ensure variations (and thus, different visual stimuli). The search history is cleared before every session so that all subjects start from the same baseline. 
+
+- **Watch**: subjects watch a short video played on the screen. We consider two videos with a different number of main characters (one with two main characters and the other with more than three characters); also one video has subtitles shown on the bottom.
+
+- **Write**: subjects are asked to write an essay in English using the Microsoft Word installed on the computer.
+
+The subjects are asked to perform each of the six activities for five minutes. They can choose one of the stimuli prepared for the Read, Watch, and Play. The gazes is recorded at a 30Hz sampling rate. Examples of the recorded gazes are shown in the figure below. 
 
 ## 2. <span id="1">Download Dataset</span>
 
