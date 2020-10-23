@@ -4,7 +4,7 @@ This repository contains the introduction to the ***DesktopActivity Eye Tracking
 
 For questions on this repository or the related paper, please contact **Guohao Lan** via *guohao [DOT] lan [AT] duke [DOT] edu*
 
-**Summary**:
+## **Outline**:
 
 * [Dataset Information](#1)
 * [Dataset Download](#2)
