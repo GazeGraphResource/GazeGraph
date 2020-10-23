@@ -86,6 +86,8 @@ Figure 2: Example of the gazes when a subject is performing different sedentary 
 
 ## 2. <span id="1">Download Dataset</span>
 
+The preprocessed dataset can be download [**here**].(https://github.com/GazeGraphResource/GazeGraph/blob/master/data.zip)
+
 ## 3. <span id="1">Citation</span>
 
 Please cite the following paper in your publications if the dataset helps your research.
