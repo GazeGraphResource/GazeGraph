@@ -108,7 +108,10 @@ DesktopActivity
 │   └───P2_PLAY.csv
 │   └───P2_READ.csv
 |   ...
+...
+└───P8
 ```
+There are **eight** sub-folders in the second level, correspond to the eight subjects. In each of the second level folders, there are **six** CSV files, correspond to the six desktop activities. Lastly, each of the CSV file contains the gaze samples (a **9000 x 2** time series) collected from the subject when she/he is performing the activity. The **9000** corresponds to a **5 minutes (300 seconds)** gaze data sampled at **30Hz**, the **2** columns correspond to the **normalized X and Y coordinates of the gaze points**.
 
 ## 3. <span id="1">Citation</span>
 
