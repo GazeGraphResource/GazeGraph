@@ -1,6 +1,6 @@
 # DesktopActivity Eye Tracking Dataset
 
-This repository contains download links and the introduction of the ***DesktopActivity Eye Tracking dataset*** collected in the **ACM SenSys 2020** paper: *"GazeGraph: Graph-based Few-Shot Cognitive Context Sensingfrom Human Visual Behavior"* by [Guohao Lan](https://guohao.netlify.app/), [Bailey Heit](https://www.linkedin.com/in/bailey-heit-b35a23152/), [Tim Scargill](https://sites.duke.edu/timscargill/), and [Maria Gorlatova](https://maria.gorlatova.com/). 
+This repository contains the introduction to the ***DesktopActivity Eye Tracking dataset*** collected for the **ACM SenSys 2020** paper: *"GazeGraph: Graph-based Few-Shot Cognitive Context Sensingfrom Human Visual Behavior"* by [Guohao Lan](https://guohao.netlify.app/), [Bailey Heit](https://www.linkedin.com/in/bailey-heit-b35a23152/), [Tim Scargill](https://sites.duke.edu/timscargill/), and [Maria Gorlatova](https://maria.gorlatova.com/). 
 
 For questions on this repository or the related paper, please contact **Guohao Lan** via *guohao [DOT] lan [AT] duke [DOT] edu*
 
@@ -14,7 +14,7 @@ For questions on this repository or the related paper, please contact **Guohao L
 ## 1. <span id="1">Dataset Information</span>
 
 ### 1.1 Data collection setup
-The dataset is collected from **eight** subjects (*four female and four male, aged between 24 and 35; all subjects are fluent in English, with Spanish (1), English (2), and Chinese (5) as their first language*) using the [Pupil Core](https://pupil-labs.com/products/core/) eye tracker. The study is approved by our institution's Institutional Review Board. During data collection, the subjects wear the eye tracker and sit in front of the computer screen (a 34-inch display) at a distance of approximately 50cm. We conduct the manufacturer's default on-screen five-points calibration for each of the subjects. Note that we have done only one calibration per subject, and the subjects can move their heads and upper bodies freely during the experiment. 
+The dataset is collected from **eight** subjects (*four female and four male, aged between 24 and 35; all subjects are fluent in English, with Spanish (1), English (2), and Chinese (5) as their first language*) using the [Pupil Core](https://pupil-labs.com/products/core/) eye tracker. During data collection, the subjects wear the eye tracker and sit in front of the computer screen (a 34-inch display) at a distance of approximately 50cm. We conduct the manufacturer's default on-screen five-points calibration for each of the subjects. Note that we have done only one calibration per subject, and the subjects can move their heads and upper bodies freely during the experiment. 
 
 #### Example of data collection setup: 
 <p align="center">
@@ -111,7 +111,7 @@ DesktopActivity
 ...
 └───P8
 ```
-There are **eight** sub-folders in the second level, correspond to the eight subjects. In each of the second level folders, there are **six** CSV files, correspond to the six desktop activities. Lastly, each of the CSV file contains the gaze samples (a **9000 x 2** time series) collected from the subject when she/he is performing the activity. The **9000** corresponds to a **5 minutes (300 seconds)** gaze data sampled at **30Hz**, the **2** columns correspond to the **normalized X and Y coordinates of the gaze points**.
+There are **eight** sub-folders in the second level, correspond to the eight subjects. In each of the second level folders, there are **six** CSV files, correspond to the six desktop activities. Lastly, each of the CSV files contains the gaze samples (a **9000 x 2** time series) collected from the subject when she/he is performing the activity. The **9000** corresponds to a **5 minutes (300 seconds)** gaze data sampled at **30Hz**, the **2** columns correspond to the **normalized X and Y coordinates of the gaze points**.
 
 ## 3. <span id="3">Citation</span>
 
@@ -126,9 +126,9 @@ Please cite the following paper in your publications if the dataset helps your r
 
 
 ## 4. <span id="4">Acknowledgments</span>
-The authors of this dataset are [Guohao Lan](https://guohao.netlify.com/) and [Maria Gorlatova](https://maria.gorlatova.com/). This work was done in the [Intelligent Interactive Internet of Things Lab](https://maria.gorlatova.com/) at [Duke University](https://www.duke.edu/).
+We would like to appreciate the help of the eight participants in the data collection. This study was done in the [Intelligent Interactive Internet of Things Lab](https://maria.gorlatova.com/) at [Duke University](https://www.duke.edu/), and was approved by our institution's Institutional Review Board.  
 
-Contact Information of the contributors: 
+The authors of this dataset are [Guohao Lan](https://guohao.netlify.com/) and [Maria Gorlatova](https://maria.gorlatova.com/). Contact Information of the contributors: 
 * guohao.lan AT duke.edu
 * maria.gorlatova AT duke.edu
 
