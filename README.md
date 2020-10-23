@@ -86,7 +86,31 @@ Figure 2: Example of the gazes when a subject is performing different sedentary 
 
 ## 2. <span id="1">Download Dataset</span>
 
-The preprocessed dataset can be download [**here**].(https://github.com/GazeGraphResource/GazeGraph/blob/master/data.zip)
+The preprocessed dataset can be download [**here**](https://github.com/GazeGraphResource/GazeGraph/blob/master/DesktopActivity.zip). Please find details about the signal preprocessing pipeline in Section 5 of the paper.
+
+#### The hierarchical structure of the dataset
+
+The dataset follows a hierarchical file structure shown below.
+
+- The tree structure of the dataset folder:
+```
+DesktopActivity
+└───P1
+│   │
+│   └───P1_BROWSE.csv
+│   └───P1_PLAY.csv
+│   └───P1_READ.csv
+│   └───P1_SEARCH.csv
+│   └───P1_WATCH.csv
+│   └───P1_WRITE.csv
+│   
+└───P2
+│   │
+│   └───P2_BROWSE.csv
+│   └───P2_PLAY.csv
+│   └───P2_READ.csv
+|   ...
+```
 
 ## 3. <span id="1">Citation</span>
 
