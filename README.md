@@ -1,13 +1,13 @@
 # DesktopActivity Eye Tracking Dataset
 
-This repository contains the introduction to the ***DesktopActivity Eye Tracking dataset*** collected for the **ACM SenSys 2020** paper: *"GazeGraph: Graph-based Few-Shot Cognitive Context Sensingfrom Human Visual Behavior"* by [Guohao Lan](https://guohao.netlify.app/), [Bailey Heit](https://www.linkedin.com/in/bailey-heit-b35a23152/), [Tim Scargill](https://sites.duke.edu/timscargill/), and [Maria Gorlatova](https://maria.gorlatova.com/). 
+This repository contains the introduction to the ***DesktopActivity Eye Tracking dataset*** collected for the **ACM SenSys 2020** paper: *"GazeGraph: Graph-based Few-Shot Cognitive Context Sensing from Human Visual Behavior"* by [Guohao Lan](https://guohao.netlify.app/), [Bailey Heit](https://www.linkedin.com/in/bailey-heit-b35a23152/), [Tim Scargill](https://sites.duke.edu/timscargill/), and [Maria Gorlatova](https://maria.gorlatova.com/). 
 
 For questions on this repository or the related paper, please contact **Guohao Lan** via *guohao [DOT] lan [AT] duke [DOT] edu*
 
 ## **Outline**:
 
 * [Dataset Information](#1)
-* [Dataset Download](#2)
+* [Download the Dataset](#2)
 * [Citation](#3)
 * [Acknowledgments](#4)
 
@@ -21,7 +21,7 @@ The dataset is collected from **eight** subjects (*four female and four male, ag
      <img src="https://github.com/GazeGraphResource/GazeGraph/blob/master/pupilDevice.png" width = "700" height = "200" hspace="0"/>
 </p>
 <p align="center">
-Figure 1: (a) Close-up of the Pupil Core head-mounted eye tracker used in the data collection; (b) example of a subject wearing the eye tracking; (c) field of view of the subject, captured by the front scene camera, with the detected gaze point overlaid.
+Figure 1: (a) Close-up of the Pupil Core head-mounted eye tracker used in the data collection; (b) example of a subject wearing the eye tracker; (c) field of view of the subject, captured by the front scene camera, with the detected gaze point overlaid.
 </p>
 
 ### 1.2 Activities
@@ -44,7 +44,7 @@ We consider six different **desktop activities** that are commonly performed in 
 The subjects are asked to perform each of the six activities for five minutes. They can choose one of the stimuli prepared for the Read, Watch, and Play. The gazes is recorded at a 30Hz sampling rate. 
 
 #### Example of data collection process:
-The videos below show how the data collection process was performed. The videos were recorded by the scene camera of the eye tracker when a subject was performing the six activities. Each of the six videos corresponds to one of the six activities. In each of the videos, the estimated gazes (i.e., the green circle) and the images of the pupils are overlaid with the user's field-of-view in real-time. 
+The videos below show how the data collection process was performed. The videos were recorded by the scene camera of the eye tracker when a subject was performing the six activities. Each of the six videos corresponds to one of the six activities. In each of the videos, the estimated gazes (i.e., the green circles) and the images of the pupils are overlaid with the user's field-of-view in real-time. 
 
 <p align="center">
      <table>
@@ -80,11 +80,11 @@ The videos below show how the data collection process was performed. The videos 
      <img src="https://github.com/GazeGraphResource/GazeGraph/blob/master/rawGazeGraphExample.png" width = "500" height = "350" hspace="70"/>
 </p>
 <p align="center">
-Figure 2: Example of the gazes when a subject is performing different sedentary activities: (a) Browsing the Internet; (b) Playing video games; (c) Reading articles; (d) Searching the Internet; (e) Watching videos; and (f) Writing essays.
+Figure 2: Example of the gazes when a subject is performing different sedentary activities: (a) Browsing the Internet; (b) Playing video games; (c) Reading articles; (d) Searching the Internet; (e) Watching videos; and (f) Writing essays. The X and Y coordinates of the gaze samples are normalized.
 </p>
 
 
-## 2. <span id="2">Download Dataset</span>
+## 2. <span id="2">Download the Dataset</span>
 
 The preprocessed dataset can be download [**here**](https://github.com/GazeGraphResource/GazeGraph/blob/master/DesktopActivity.zip). Please find details about the signal preprocessing pipeline in Section 5 of the paper.
 
@@ -111,7 +111,7 @@ DesktopActivity
 ...
 └───P8
 ```
-There are **eight** sub-folders in the second level, correspond to the eight subjects. In each of the second level folders, there are **six** CSV files, correspond to the six desktop activities. Lastly, each of the CSV files contains the gaze samples (a **9000 x 2** time series) collected from the subject when she/he is performing the activity. The **9000** corresponds to a **5 minutes (300 seconds)** gaze data sampled at **30Hz**, the **2** columns correspond to the **normalized X and Y coordinates of the gaze points**.
+There are **eight** sub-folders on the second level, correspond to the eight subjects. In each of the second level folders, there are **six** CSV files, correspond to the six desktop activities. Lastly, each of the CSV files contains the gaze samples (a **9000 x 2** time series) collected from the subject when she/he is performing the activity. The **9000** corresponds to a **5 minutes (300 seconds)** gaze data sampled at **30Hz**, the **2** columns correspond to the **normalized X and Y coordinates of the gaze points**.
 
 ## 3. <span id="3">Citation</span>
 
@@ -126,9 +126,9 @@ Please cite the following paper in your publications if the dataset helps your r
 
 
 ## 4. <span id="4">Acknowledgments</span>
-We would like to appreciate the help of the eight participants in the data collection. This study was done in the [Intelligent Interactive Internet of Things Lab](https://maria.gorlatova.com/) at [Duke University](https://www.duke.edu/), and was approved by our institution's Institutional Review Board.  
+We thank the study's participants for their time in the data collection. This study was done in the [Intelligent Interactive Internet of Things Lab](https://maria.gorlatova.com/) at [Duke University](https://www.duke.edu/), and was approved by our institution's Institutional Review Board.  
 
-The authors of this dataset are [Guohao Lan](https://guohao.netlify.com/) and [Maria Gorlatova](https://maria.gorlatova.com/). Contact Information of the contributors: 
+The authors of this dataset are [Guohao Lan](https://guohao.netlify.com/) and [Maria Gorlatova](https://maria.gorlatova.com/). Contact Information of the authors: 
 * guohao.lan AT duke.edu
 * maria.gorlatova AT duke.edu
 
