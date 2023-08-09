@@ -2,7 +2,7 @@
 
 This repository contains the introduction to the ***DesktopActivity Eye Tracking dataset*** collected for the **ACM SenSys 2020** paper: *"GazeGraph: Graph-based Few-Shot Cognitive Context Sensing from Human Visual Behavior"* by [Guohao Lan](https://guohao.netlify.app/), [Bailey Heit](https://www.linkedin.com/in/bailey-heit-b35a23152/), [Tim Scargill](https://sites.duke.edu/timscargill/), and [Maria Gorlatova](https://maria.gorlatova.com/). 
 
-For questions on this repository or the related paper, please contact **Guohao Lan** via *guohao [DOT] lan [AT] duke [DOT] edu*
+For questions on this repository or the related paper, please contact **Guohao Lan** via *g.lan [AT] tudelft. [DOT] nl*
 
 ## **Outline**:
 
